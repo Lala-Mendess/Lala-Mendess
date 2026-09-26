@@ -81,9 +81,8 @@ Também gosto de unir programação e arte nos meus projetos, explorando design,
 />
 
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lala-Mendess/Lala-Mendess/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/Lala-Mendess/Lala-Mendess/output/github-contribution-grid-snake.svg">
 </p>
 
 <br/>
